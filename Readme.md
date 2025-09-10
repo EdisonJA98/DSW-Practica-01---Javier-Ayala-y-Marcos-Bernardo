@@ -6,9 +6,10 @@ Este repositorio contiene la solución a **4 ejercicios en Kotlin** como parte d
 
 ## 👥 Participantes
 
-| Apellidos        | Nombres       | Código   | Correo                      |
-|------------------|--------------|----------|-----------------------------|
-| Marcos Bernardo  | Elias Daniel | 20200009 | elias.marcos@unmsm.edu.pe   |
+| Apellidos        | Nombres       | Código   | Correo                       |
+|------------------|--------------|----------|-------------------------------|
+| Marcos Bernardo  | Elias Daniel | 20200009 | elias.marcos@unmsm.edu.pe     |
+| Javier Ayala     | Edison Juan  | 20200103 | edisonjuan.javier@unmsm.edu.pe|
 
 ---
 <!-- 
